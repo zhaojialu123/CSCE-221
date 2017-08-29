@@ -1,0 +1,1942 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headheight 0cm
+\headsep 0cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size largest
+CSCE 221 Cover Page
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size largest
+Programming Assignment #1 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size largest
+Due 
+\series bold
+February 1
+\series default
+ by midnight to CSNet
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size larger
+First Name
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+Jialu
+\size larger
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Last Name 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+Zhao
+\size larger
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+UIN
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+426000712
+\size larger
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size larger
+User Name 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+zhaojialu123
+\size larger
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+E-mail address
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+zhaojialu123@tamu.edu
+\size larger
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Please list all sources in the table below including web pages which you
+ used to solve or implement the current homework.
+ If you fail to cite sources you can get a lower number of points or even
+ zero, read more: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Aggie Honor System Office"
+target "http://aggiehonor.tamu.edu/"
+
+\end_inset
+
+ 
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Type of sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+People
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Web pages (provide URL) 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Printed material
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Other Sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+I certify that I have listed all the sources that I used to develop the
+ solutions/codes to the submitted work.
+\end_layout
+
+\begin_layout Quotation
+“
+\series bold
+On my honor as an Aggie, I have neither given nor received any unauthorized
+ help on this academic work.
+\series default
+” 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Your Name 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Jialu
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Zhao
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+01/29/2017
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Report: Assignment 1
+\end_layout
+
+\begin_layout Section*
+(i)Program description and purpose of the assignment
+\end_layout
+
+\begin_layout Paragraph*
+Program description:
+\end_layout
+
+\begin_layout Standard
+Set up our own string class with a lot of member functions.
+ There is a significant overlap between implementation of the STL vector
+ and STL classes.
+\end_layout
+
+\begin_layout Paragraph*
+Purpose: 
+\end_layout
+
+\begin_layout Standard
+The purpose of the first programming assignment is to provide an elementary
+ design, implementation, and testing of a simple C++ string class called
+ my_string.
+ The class implementation allows us to understand how the STL string class
+ is implemented and it provides the overview of the basic C++ concepts about,
+ among others, pointers, dynamic arrays, copy constructors, copy assignments,
+ and destructors.
+\end_layout
+
+\begin_layout Section*
+(ii)Data structures description
+\end_layout
+
+\begin_layout Paragraph*
+1.Theoretical definition
+\end_layout
+
+\begin_layout Standard
+Abstract Data Type(ADT) that specifies the type tof the data stored operations
+ that support the data.
+ our purpose is to provide specific functions to support these data.
+\end_layout
+
+\begin_layout Paragraph*
+2.Real implementation
+\end_layout
+
+\begin_layout Standard
+This my_string structure provides functions to know its size, capacity,
+ whether it is empty or not and use [] or at to get the element in that
+ index position.
+ Also, there are functions += to concatenate two strings or a string and
+ a character.
+ In the end my_string class can do initialization and assignment.
+\end_layout
+
+\begin_layout Section*
+(iii)Instructions to compile and run
+\end_layout
+
+\begin_layout Paragraph*
+1.Compile: 
+\end_layout
+
+\begin_layout Standard
+After put my_string.cpp, my_string.h, main.cpp and Makefile in one folder,
+ type in 
+\begin_inset Quotes eld
+\end_inset
+
+make
+\begin_inset Quotes erd
+\end_inset
+
+ in command line.
+\end_layout
+
+\begin_layout Standard
+Note: There may be some warnings, but don't worry about that.
+ Those warnings don't matter for the whole program.
+ 
+\end_layout
+
+\begin_layout Paragraph*
+2.Run: 
+\end_layout
+
+\begin_layout Standard
+After compile successfully, type in 
+\begin_inset Quotes eld
+\end_inset
+
+./_my.string
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Remark: After successfully run program, there is one instruction that prompt
+ users to enter some string, just type in whatever string you like.
+\end_layout
+
+\begin_layout Standard
+If you want to get the result in a txt file, use this command:
+\end_layout
+
+\begin_layout Standard
+./my_string>>output
+\end_layout
+
+\begin_layout Section*
+(iv)Logical exceptions
+\end_layout
+
+\begin_layout Standard
+range errors: when users want to use at(i) function to find the element
+ in that index position, they should make sure i is between 0 and the size
+ of this string, or it will cause an out of range error.
+ Same as that, when users try to insert some string in another string, they
+ should make sure the index was greater than 0.
+\end_layout
+
+\begin_layout Section*
+(v)C++ object oriented or generic programming features, including C++11
+ features.
+\end_layout
+
+\begin_layout Standard
+This my_string class is object oriented programming.
+\end_layout
+
+\begin_layout Paragraph*
+C++11 features:
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+(1)Control of defaults: move and copy
+\end_layout
+
+\begin_layout Standard
+(2)Copying and rethrowing exceptions
+\end_layout
+
+\begin_layout Section*
+(vi) Testing results
+\end_layout
+
+\begin_layout LyX-Code
+cout << "Testing my_string class: 
+\backslash
+n";
+\end_layout
+
+\begin_layout Standard
+Output: Testing my_string class which inplies the testing begins.
+\end_layout
+
+\begin_layout LyX-Code
+my_string v1;
+\end_layout
+
+\begin_layout Standard
+Using default constructor to construct my_string v1.
+\end_layout
+
+\begin_layout LyX-Code
+my_string v2("first"); 
+\end_layout
+
+\begin_layout LyX-Code
+my_string v3("second");
+\end_layout
+
+\begin_layout Standard
+Using cstring constuctor to construct v2 and v3.
+\end_layout
+
+\begin_layout LyX-Code
+v1 += v2; 
+\end_layout
+
+\begin_layout LyX-Code
+v1 += ' '; 
+\end_layout
+
+\begin_layout LyX-Code
+v1 += v3;
+\end_layout
+
+\begin_layout Standard
+Concatenate v2, space and v3 using operator +=.
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v1 = " << v1 << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v1 size = " << v1.size() << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v1 capacity = " << v1.capacity() << endl;
+\end_layout
+
+\begin_layout Standard
+Output v1 itself and v1's size and its capacity.
+\end_layout
+
+\begin_layout Standard
+result:
+\end_layout
+
+\begin_layout Standard
+v1 = first second 
+\end_layout
+
+\begin_layout Standard
+v1 size = 12 
+\end_layout
+
+\begin_layout Standard
+v1 capacity = 20 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v1 as [] characters:
+\backslash
+n"; 
+\end_layout
+
+\begin_layout LyX-Code
+for (int i = 0; i < v1.size(); i++) { 
+\end_layout
+
+\begin_layout LyX-Code
+cout << v1[i] << ' ' ; 
+\end_layout
+
+\begin_layout LyX-Code
+}
+\end_layout
+
+\begin_layout Standard
+Using operator [] to get the element in i position without range checking
+\end_layout
+
+\begin_layout Standard
+result:
+\end_layout
+
+\begin_layout Standard
+v1 as [] characters: 
+\end_layout
+
+\begin_layout Standard
+f i r s t s e c o n d v1 as at() characters: 
+\end_layout
+
+\begin_layout Standard
+f i r s t s e c o n d 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v1 as at() characters:
+\backslash
+n";
+\end_layout
+
+\begin_layout LyX-Code
+for (int i = 0; i < v1.size(); i++) {
+\end_layout
+
+\begin_layout LyX-Code
+cout << v1.at(i) << ' ' ; 
+\end_layout
+
+\begin_layout LyX-Code
+}
+\end_layout
+
+\begin_layout Standard
+Using at() function to get the element that in i position with range checking,
+ if it is out of range, it will throw an error.
+\end_layout
+
+\begin_layout LyX-Code
+catch(const out_of_range& e) {     
+\end_layout
+
+\begin_layout LyX-Code
+cerr << "Out of range: " << e.what() << endl;   }
+\end_layout
+
+\begin_layout Standard
+Catch out of range error.
+\end_layout
+
+\begin_layout LyX-Code
+{ 
+\end_layout
+
+\begin_layout LyX-Code
+my_string v4(4); 
+\end_layout
+
+\begin_layout LyX-Code
+v4 += 'a'; 
+\end_layout
+
+\begin_layout LyX-Code
+v4 += 'b';
+\end_layout
+
+\begin_layout LyX-Code
+v4 += 'c';
+\end_layout
+
+\begin_layout LyX-Code
+v4 += 'd'; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v4 = " << v4 << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v4 size = " << v4.size() << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v4 capacity = " << v4.capacity() << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+const char* empty = v4.empty() ? "true" : "false"; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "is v4 empty: " << empty << endl;
+\end_layout
+
+\begin_layout LyX-Code
+cout << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+}
+\end_layout
+
+\begin_layout Standard
+Using default constructor to construct my_string v4, and then using operator+=
+ for character to concatenate a,b,c,d, and then output v4's size,capacity
+ and whether it is empty or not.
+\end_layout
+
+\begin_layout Standard
+result:
+\end_layout
+
+\begin_layout Standard
+v4 = abcd 
+\end_layout
+
+\begin_layout Standard
+v4 size = 4 
+\end_layout
+
+\begin_layout Standard
+v4 capacity = 4 
+\end_layout
+
+\begin_layout Standard
+is v4 empty: false
+\end_layout
+
+\begin_layout LyX-Code
+my_string v5(v1); 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v5 = " << v5 << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+my_string v5a("ly"); 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v5.insert(5, 
+\backslash
+"ly
+\backslash
+") and v5.insert(14, 
+\backslash
+"ly
+\backslash
+"): 
+\backslash
+n"; 
+\end_layout
+
+\begin_layout LyX-Code
+v5.insert(5, v5a);
+\end_layout
+
+\begin_layout LyX-Code
+v5.insert(14, v5a); 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v5 = " << v5 << endl;
+\end_layout
+
+\begin_layout LyX-Code
+cout << endl;
+\end_layout
+
+\begin_layout Standard
+Using copy constructor copy v1 to v5 and then output its value.
+ Using insert function to insert v5a to v5 and output new v5.
+ 
+\end_layout
+
+\begin_layout Standard
+result:
+\end_layout
+
+\begin_layout Standard
+v5 = first second 
+\end_layout
+
+\begin_layout Standard
+v5.insert(5, "ly") and v5.insert(14, "ly"): 
+\end_layout
+
+\begin_layout Standard
+v5 = firstly secondly
+\end_layout
+
+\begin_layout LyX-Code
+my_string v6; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "Enter a string:
+\backslash
+n"; 
+\end_layout
+
+\begin_layout LyX-Code
+cin >> v6; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v6 = " << v6 << endl;
+\end_layout
+
+\begin_layout Standard
+Using overload operator >> to read some string from key board and assign
+ it to v6.
+\end_layout
+
+\begin_layout LyX-Code
+my_string v7(v6); 
+\end_layout
+
+\begin_layout LyX-Code
+v7 += v2; 
+\end_layout
+
+\begin_layout LyX-Code
+v7.insert(v6.size(), my_string(" "));
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v6 + 
+\backslash
+" 
+\backslash
+" + v2 = " << v7 << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+my_string v8(v6); 
+\end_layout
+
+\begin_layout LyX-Code
+v8 += v6[v6.size()-1]; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << "v6 + last char of v6 = " << v8 << endl; 
+\end_layout
+
+\begin_layout LyX-Code
+cout << endl;
+\end_layout
+
+\begin_layout Standard
+Copy v6 to v7 and then using += to concatenate and insert function to insert
+ whitespace to v7.
+ Using [] to get the last operator of v8.
+\end_layout
+
+\begin_layout Standard
+result:
+\end_layout
+
+\begin_layout Standard
+Enter a string: 
+\end_layout
+
+\begin_layout Standard
+csce 221 
+\end_layout
+
+\begin_layout Standard
+v6 = csce v6 + " " + v2 = csce first 
+\end_layout
+
+\begin_layout Standard
+v6 + last char of v6 = cscee
+\end_layout
+
+\begin_layout Standard
+note: it will stop reading at white space and new line
+\end_layout
+
+\end_body
+\end_document
